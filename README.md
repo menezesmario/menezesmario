@@ -1,6 +1,6 @@
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/menezesmario)](https://www.linkedin.com/in/menezesmario)
+
 
 ![Mario's GitHub stats](https://github-readme-stats.vercel.app/api?username=menezesmario&show_icons=true&theme=radical)
 
@@ -18,6 +18,10 @@
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
   
 <br>
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/menezesmario)](https://www.linkedin.com/in/menezesmario)
+
 
 Here are some ideas to get you started:
 
