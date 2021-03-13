@@ -1,10 +1,11 @@
 
 
 
-Seja Bem Vindo
+### Seja Bem Vindo
 
 ![Meu Status no Github](https://github-readme-stats.vercel.app/api?username=menezesmario&show_icons=true&theme=radical)
 
+### Minhas habilidades
 <br>
   
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -19,6 +20,10 @@ Seja Bem Vindo
   
 <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=menezesmario&layout=compact&show_icons=true&theme=merko)](https://github.com/menezesmario)
+
+
+<br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/menezesmario)](https://www.linkedin.com/in/menezesmario)
 
