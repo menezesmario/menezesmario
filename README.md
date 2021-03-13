@@ -15,7 +15,7 @@
   
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://github.com/simple-icons/simple-icons/blob/develop/icons/javascript.svg)
+![JavaScript](https://github.com/simple-icons/simple-icons/blob/develop/icons/javascript.svg?style=flat-square&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)
