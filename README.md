@@ -2,7 +2,7 @@
 
 Meu nome é Mário Menezes, estou morando em São Paulo, Brasil.
 
-Acabo de me formar desenvolvedor full stack jr com ajuda da escola Recode e estou aprimorando os conhecimentos em front-end.
+Acabo de me formar desenvolvedor full stack jr com ajuda da escola Recode e estou em busca de uma oportunidade na área.
 
 Trabalhei por 15 anos como designer gráfico e web contribuindo diretamente com desenvolvedores, me interessei pela programação quando comecei estudar usabilidade e interface de usuário, a partir daí me apaixonei pela área de tecnologia e resolvi seguir essa nova direção. 
 
@@ -23,11 +23,15 @@ Mais sobre mim:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/NodeJs-339933.svg?logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=php&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837.svg?logo=npm)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB.svg?logo=yarn&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
+
 
 
 ## Fale comigo
