@@ -3,6 +3,11 @@
 
 ### Seja Bem Vindo
 
+##
+
+* Desenvolvedor Full Stack Jr;
+* Designer gráfico com 15 anos de experiência (Criação de logotipos, diagramação, design web, edição de vídeos, usabilidade e interface de usuário).
+
 ![Meu Status no Github](https://github-readme-stats.vercel.app/api?username=menezesmario&show_icons=true&theme=radical)
 
 ### Minhas habilidades
