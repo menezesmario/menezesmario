@@ -5,10 +5,10 @@
 
 ##
 
-* Desenvolvedor Full Stack Jr;
+* JavaScript Full Stack Jr (HTML5, CSS3, ReactJS, React Native, NodeJS, MongoDB, MySQL,;
 * Designer gráfico com 15 anos de experiência (Criação de logotipos, diagramação, design web, edição de vídeos, usabilidade e interface de usuário).
 
-![Meu Status no Github](https://github-readme-stats.vercel.app/api?username=menezesmario&show_icons=true&theme=radical)
+![Meu Status no Github](https://github-readme-stats.vercel.app/api?username=menezesmario&show_icons=true&theme=chartreuse-dark)
 
 ### Minhas habilidades
 <br>
