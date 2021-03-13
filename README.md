@@ -1,6 +1,6 @@
 
 
-[LinkedIn](https://linkedin.com/in/menezesmario)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/menezesmario)](https://www.linkedin.com/in/menezesmario)
 
 ![Mario's GitHub stats](https://github-readme-stats.vercel.app/api?username=menezesmario&show_icons=true&theme=radical)
 
