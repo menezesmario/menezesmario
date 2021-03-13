@@ -20,7 +20,8 @@
   
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=menezesmario&layout=compact&show_icons=true&theme=merko)](https://github.com/menezesmario)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=menezesmario&layout=compact)](https://github.com/menezesmario/github-readme-stats)
+
 
 
 <br>
