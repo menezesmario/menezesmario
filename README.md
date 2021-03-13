@@ -1,4 +1,4 @@
-# Welcome 👋
+# Bem vindo! 👋
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jumaschion.jumaschion)
 
@@ -8,24 +8,24 @@ Acabo de me formar desenvolvedor full stack jr com ajuda da escola Recode e esto
 
 Trabalhei por 15 anos como designer gráfico e web contribuindo diretamente com desenvolvedores, me interessei pela programação quando comecei estudar usabilidade e interface de usuário, a partir daí me apaixonei pela área de tecnologia e resolvi seguir essa nova direção. 
 
-More about me:
+Mais sobre mim:
 
 - 🌱 Atualmente estou me aprofundando em front-end e desenvolvimento ágil ( JavaScript / React / React Native / Scrum )
 - ⚡ Já trabalhei também com fotografia, produção cultural e gosto muito de mergulhar e correr nas montanhas.
 - 
 
-## Follow me
+## Fale comigo:
 
 
 [![Linkedin: Mário Menezes](https://img.shields.io/badge/-MárioMenezes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/menezesmario/)](https://www.linkedin.com/in/menezesmario/)
 
 
-## GitHub Stats and Most Used Languages
+## Status do Github e linguagens mais usadas:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=menezesmario&hide=issues&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=menezesmario&layout=compact&theme=chartreuse-dark&langs_count=10)](https://github.com/menezesmario/github-readme-stats)
 
-## Tech Skills
+## Habilidades Técnicas:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
