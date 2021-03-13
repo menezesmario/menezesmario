@@ -10,7 +10,6 @@ Mais sobre mim:
 
 - 🌱 Atualmente estou me aprofundando em front-end e desenvolvimento ágil ( JavaScript / React / React Native / Scrum )
 - ⚡ Já trabalhei também com fotografia, produção cultural e gosto muito de mergulhar e correr nas montanhas.
-- 
 
 ## Status do Github e linguagens mais usadas:
 
