@@ -7,6 +7,8 @@
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
   
   <br>
+  
+  This is goin to be hidden
 </details>
 
 Here are some ideas to get you started:
