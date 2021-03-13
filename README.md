@@ -3,7 +3,7 @@
 Contato:
 [LinkedIn](https://linkedin.com/in/menezesmario)
 
-![Mario's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Mario's GitHub stats](https://github-readme-stats.vercel.app/api?username=menezesmario&show_icons=true&theme=radical)
 
 
 <details>
