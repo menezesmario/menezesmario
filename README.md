@@ -1,6 +1,6 @@
 # Bem vindo! 👋
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jumaschion.jumaschion)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=menezesmario.menezesmario)
 
 Meu nome é Mário Menezes, estou morando em São Paulo, Brasil.
 
