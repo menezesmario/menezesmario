@@ -1,14 +1,13 @@
 # Bem vindo! 👋
 
-Meu nome é Mário Menezes, estou morando em São Paulo, Brasil.
+Meu nome é Mário Menezes, 38 anos, moro em São Paulo, Brasil.
 
-Acabo de me formar desenvolvedor full stack jr com ajuda da escola Recode e estou em busca de uma oportunidade na área.
+Acabo de me formar desenvolvedor full stack com ajuda da escola Recode e estou em busca de uma oportunidade na área.
 
-Trabalhei por 15 anos como designer gráfico e web contribuindo diretamente com desenvolvedores, me interessei pela programação quando comecei estudar usabilidade e interface de usuário, a partir daí me apaixonei pela área de tecnologia e resolvi seguir essa nova direção. 
+Trabalhei por 15 anos como designer e quando passei a contribuir diretamente com desenvolvedores web me interessei pela programação, depois de iniciar os estudos em usabilidade e interface de usuário, a partir daí me apaixonei pela área de tecnologia e resolvi seguir essa nova direção. 
 
-Mais sobre mim:
 
-- 🌱 Atualmente estou me aprofundando em front-end e desenvolvimento ágil ( JavaScript / React / React Native / Scrum )
+- 🌱 Atualmente estou me aprofundando em front-end e testes de qualidade.
 - ⚡ Já trabalhei também com fotografia, produção cultural e gosto muito de mergulhar e correr nas montanhas.
 
 ## Status do Github e linguagens mais usadas:
@@ -34,7 +33,7 @@ Mais sobre mim:
 
 
 
-## Fale comigo
+## Se eu puder contribuir com seu projeto, me chame no Linkedin
 
 [![Linkedin: Mário Menezes](https://img.shields.io/badge/-MárioMenezes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/menezesmario/)](https://www.linkedin.com/in/menezesmario/)
 
