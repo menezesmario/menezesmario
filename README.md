@@ -33,7 +33,7 @@ Trabalhei por 15 anos como designer e quando passei a contribuir diretamente com
 
 
 
-## Se eu puder contribuir com seu projeto, me chame no Linkedin
+## Contato
 
 [![Linkedin: Mário Menezes](https://img.shields.io/badge/-MárioMenezes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/menezesmario/)](https://www.linkedin.com/in/menezesmario/)
 
