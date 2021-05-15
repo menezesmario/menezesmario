@@ -1,15 +1,3 @@
-# Bem vindo! 👋
-
-Meu nome é Mário Menezes, 38 anos, moro em São Paulo, Brasil.
-
-Acabo de me formar desenvolvedor full stack com ajuda da escola Recode e estou em busca de uma oportunidade na área.
-
-Trabalhei por 15 anos como designer e quando passei a contribuir diretamente com desenvolvedores web me interessei pela programação, depois de iniciar os estudos em usabilidade e interface de usuário, a partir daí me apaixonei pela área de tecnologia e resolvi seguir essa nova direção. 
-
-
-- 🌱 Atualmente estou me aprofundando em front-end e testes de qualidade.
-- ⚡ Já trabalhei também com fotografia, produção cultural e gosto muito de mergulhar e correr nas montanhas.
-
 ## Status do Github e linguagens mais usadas:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=menezesmario&hide=issues&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
